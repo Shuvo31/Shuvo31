@@ -1,16 +1,18 @@
 
 
 
-<p align='Left'>
+<p align='Center'>
   Hi! I am <b>Shuvojit Das</b>.<br/>
   I am student of <b>Guru Nanak Institute Of Technology, Kolkata</b><br/>
   I'm a <b>Competitive Programmer, Developer, and Quick Learner!!</b>
 </p>
 <p> 🌱 I’m currently learning Machine Learning</p>
-<p> 👯 I’m looking to collaborate with other content creators</p>
-<p> 🥅 2020 Goals: Contribute more to Open Source projects</p>
-<p> ⚡ Fun fact: I love to draw and play guitar / drums</p>
 
+<p> 👯 I’m looking to collaborate with other content creators</p>
+
+<p> 🥅 2020 Goals: Contribute more to Open Source projects</p>
+
+<p> ⚡ Fun fact: I love to draw and play guitar / drums</p>
 
 <p>📫 How to reach me:innocent:</p>
 
