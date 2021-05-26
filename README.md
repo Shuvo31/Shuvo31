@@ -77,6 +77,9 @@ My Interests :heart_eyes:<br>
 
 ![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvo31)
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Shuvo31&&style=flat-square" align="center" />
+</div>
 
 
 
