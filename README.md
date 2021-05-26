@@ -12,7 +12,7 @@
 
 <p> 🥅 2021 Goals: <b>Contribute more to Open Source projects</b></p>
 
-<p> ⚡ Fun fact: I prefer tabs over space tab </p>
+<p> ⚡ Fun fact: I prefer tabs over spaces  </p>
 
 <p>📫 How to reach me:innocent:</p>
 
