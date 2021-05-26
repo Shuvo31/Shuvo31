@@ -6,7 +6,7 @@
   I am student of <b>Guru Nanak Institute Of Technology, Kolkata</b><br/>
   I am a <b>Competitive Programmer, Developer, and Quick Learner!!</b>
 </p>
-<p> 🌱 I’m currently learning Machine Learning</p>
+<p> 🌱 I’m currently studied with computer science and engineering</p>
 
 <p> 👯 I’m looking to collaborate with other content creators</p>
 
