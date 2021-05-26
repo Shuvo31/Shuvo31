@@ -64,13 +64,12 @@ My Interests :heart_eyes:<br>
 <img align = 'left' alt = 'Javascript' width='70px' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <br/>
 <br/>
-<br/>
 
 ## Database :
 
-<img align = 'left' alt = 'MYSQL' width='60px' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align = 'left' alt = 'MYSQL' width='40px' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img align = 'left' alt = 'Microsoft Sql Server' width='60px' src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img align = 'left' alt = 'Microsoft Sql Server' width='70px' src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 
 
 
