@@ -4,7 +4,7 @@
 <p align='Center'>
   Hi! I am <b>Shuvojit Das</b>.<br/>
   I am student of <b>Guru Nanak Institute Of Technology, Kolkata</b><br/>
-  I'm a <b>Competitive Programmer, Developer, and Quick Learner!!</b>
+  I am a <b>Competitive Programmer, Developer, and Quick Learner!!</b>
 </p>
 <p> 🌱 I’m currently learning Machine Learning</p>
 
