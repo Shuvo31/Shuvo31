@@ -47,7 +47,7 @@ My Interests :heart_eyes:<br>
 - Machine Learning
 - Competitive Coding 
 
-## Languages I know or use:
+## Languages :
 
 <img align = 'left' alt = 'Python' width='60px' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -62,6 +62,16 @@ My Interests :heart_eyes:<br>
 <img align = 'left' alt = 'CSS3' width='36px' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img align = 'left' alt = 'Javascript' width='70px' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+## Database :
+
+<img align = 'left' alt = 'MYSQL' width='60px' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img align = 'left' alt = 'Microsoft Sql Server' width='60px' src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+
+
+
+
 
 
 
