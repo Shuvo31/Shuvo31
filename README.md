@@ -71,7 +71,7 @@ My Interests :heart_eyes:<br>
 
 ## My Github Statistics:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuvo31&theme=tokyonight&show_icons=true)
+![Shuvo31 GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuvo31&theme=tokyonight&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shuvo31&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
