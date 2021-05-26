@@ -55,7 +55,8 @@ My Interests :heart_eyes:<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shuvo31&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvo31)
-[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shuvo31)]
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shuvo31)](https://github.com/Shuvo31/github-readme-stats)
+
 
 
 
