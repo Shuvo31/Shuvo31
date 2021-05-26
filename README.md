@@ -6,7 +6,7 @@
  I am a student of <b>Guru Nanak Institute Of Technology, Kolkata</b><br/>
  </p>
  
-<p> 🌱 I’m currently studied with <b>Computer Science and Engineering</b></p>
+<p> 🌱 I’m currently studing with <b>Computer Science and Engineering</b></p>
 
 <p> 👯 I’m looking to collaborate with other content creators</p>
 
