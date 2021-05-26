@@ -8,11 +8,11 @@
  
 <p> 🌱 I’m currently studing with <b>Computer Science and Engineering</b></p>
 
-<p> 👯 I’m looking to collaborate with other content creators</p>
+<p> 👯 I’m looking to <b>collaborate with other content creators</b></p>
 
-<p> 🥅 2021 Goals: Contribute more to Open Source projects</p>
+<p> 🥅 2021 Goals: <b>Contribute more to Open Source projects</b></p>
 
-<p> ⚡ Fun fact: I love to play cricket </p>
+<p> ⚡ Fun fact: I prefer tabs over space tab </p>
 
 <p>📫 How to reach me:innocent:</p>
 
