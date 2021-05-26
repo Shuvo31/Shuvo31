@@ -10,9 +10,9 @@
 
 <p> 👯 I’m looking to collaborate with other content creators</p>
 
-<p> 🥅 2020 Goals: Contribute more to Open Source projects</p>
+<p> 🥅 2021 Goals: Contribute more to Open Source projects</p>
 
-<p> ⚡ Fun fact: I love to draw and play guitar / drums</p>
+<p> ⚡ Fun fact: I love to play cricket / drums</p>
 
 <p>📫 How to reach me:innocent:</p>
 
@@ -45,19 +45,25 @@ My Interests :heart_eyes:<br>
 - Web Development
 - Software Development
 - Machine Learning
-- Cricket
+- Competetive Coding 
 
 ## Languages and software that I know and/or use:
 
-<img align = 'left' alt = 'Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
+<img align = 'left' alt = 'Python' width='36px' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img align = "left" alt = "C" width = "46px" src="https://user-images.githubusercontent.com/55111154/100549944-5f4b7600-329c-11eb-8d47-a3d5f47bd248.png" />
+<img align = 'left' alt = 'C' width='36px' src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img align="left" alt="Java" width="28px" src= "https://user-images.githubusercontent.com/55111154/100549990-ab96b600-329c-11eb-865d-419e80f8b710.png"/>
+<img align = 'left' alt = 'C#' width='36px' src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-<img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
+<img align = 'left' alt = 'Java' width='36px' src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-<img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/>
+<img align = 'left' alt = 'HTML5' width='36px' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img align = 'left' alt = 'CSS3' width='36px' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img align = 'left' alt = 'Javascript' width='36px' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+
 
 <br/>
 <br/>
