@@ -4,6 +4,7 @@
 <p align='center'>
   Hi! I am <b>Shuvojit Das</b>.<br/>
   I am student of <b>Guru Nanak Institute Of Technology, Kolkata</b>
+  ## I'm a Competitive Programmer, Developer, and Quick Learner!!
 </p>
 
 
@@ -21,6 +22,14 @@
   
   <a href="https://twitter.com/shuvojit_31?s=08">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>&nbsp
+  
+  <a href="https://www.facebook.com/shuvojit.das.92351">
+    <img src=" https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>&absp
+  
+   <a href="https://www.instagram.com/_shuvojit_31/">
+    <img src=" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
 </p>
@@ -55,7 +64,6 @@ My Interests :heart_eyes:<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shuvo31&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvo31)
-[![Shuvo31's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shuvo31)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
