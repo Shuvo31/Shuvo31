@@ -2,8 +2,8 @@
 
 
 <p align='Center'>
-  Hi! I am <b>Shuvojit Das</b>.<br/>
-  I am a student of <b>Guru Nanak Institute Of Technology, Kolkata</b><br/>
+ ## Hi! I am <b>Shuvojit Das</b>.<br/>
+ ##I am a student of <b>Guru Nanak Institute Of Technology, Kolkata</b><br/>
   
 </p>
 <p> 🌱 I’m currently studied with <b>Computer Science and Engineering</b></p>
