@@ -4,7 +4,7 @@
 <p align='center'>
   Hi! I am <b>Shuvojit Das</b>.<br/>
   I am student of <b>Guru Nanak Institute Of Technology, Kolkata</b>
-  ## I'm a Competitive Programmer, Developer, and Quick Learner!!
+  I'm a Competitive Programmer, Developer, and Quick Learner!!
 </p>
 
 
@@ -25,13 +25,13 @@
   </a>&nbsp
   
   <a href="https://www.facebook.com/shuvojit.das.92351">
-    <img src=" https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>&nbsp
   
    <a href="https://www.instagram.com/_shuvojit_31/">
-    <img src=" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  
+   
 </p>
 
 My Interests :heart_eyes:<br>
