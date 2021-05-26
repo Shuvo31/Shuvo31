@@ -55,7 +55,7 @@ My Interests :heart_eyes:<br>
 
 <img align = 'left' alt = 'C#' width='36px' src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-<img align = 'left' alt = 'Java' width='36px' src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align = 'left' alt = 'Java' width='36px' src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img align = 'left' alt = 'HTML5' width='36px' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
