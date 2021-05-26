@@ -4,15 +4,15 @@
 <p align='Center'>
   Hi! I am <b>Shuvojit Das</b>.<br/>
   I am student of <b>Guru Nanak Institute Of Technology, Kolkata</b><br/>
-  I am a <b>Competitive Programmer, Developer, and Quick Learner!!</b>
+  
 </p>
-<p> 🌱 I’m currently studied with computer science and engineering</p>
+<p> 🌱 I’m currently studied with <b>Computer Science and Engineering</b></p>
 
 <p> 👯 I’m looking to collaborate with other content creators</p>
 
 <p> 🥅 2021 Goals: Contribute more to Open Source projects</p>
 
-<p> ⚡ Fun fact: I love to play cricket / drums</p>
+<p> ⚡ Fun fact: I love to play cricket </p>
 
 <p>📫 How to reach me:innocent:</p>
 
