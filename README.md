@@ -3,8 +3,8 @@
 
 <p align='center'>
   Hi! I am <b>Shuvojit Das</b>.<br/>
-  I am student of <b>Guru Nanak Institute Of Technology, Kolkata</b>
-  I'm a Competitive Programmer, Developer, and Quick Learner!!
+  I am student of <b>Guru Nanak Institute Of Technology, Kolkata</b><br/>
+  I'm a <b>Competitive Programmer, Developer, and Quick Learner!!</b>
 </p>
 
 
