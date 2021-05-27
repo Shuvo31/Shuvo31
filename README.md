@@ -84,13 +84,13 @@ My Interests :heart_eyes:<br>
 
 <img align = 'left' alt = '.NET' width='40px' src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white"/>
 
-<img align = 'left' alt = 'OPENCV' width='40px' src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img align = 'left' alt = 'OPENCV' width='60px' src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 
 
-<img align = 'left' alt = 'JUPYTER' width='40px' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img align = 'left' alt = 'JUPYTER' width='60px' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
 
-<img align = 'left' alt = 'Bootstrap' width='40px' src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img align = 'left' alt = 'Bootstrap' width='60px' src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
 <img align = 'left' alt = 'Git' width='40px' src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
