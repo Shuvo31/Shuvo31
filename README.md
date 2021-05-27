@@ -16,7 +16,7 @@
 
 <p>📫 How to reach me:innocent:</p>
 
-<p align='center'>
+<p align='left'>
  
   <a href="mailto:shuvojitdas2000@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
