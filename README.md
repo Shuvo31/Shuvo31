@@ -36,8 +36,15 @@
   
    <a href="https://www.instagram.com/_shuvojit_31/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  </a>&nbsp
+ 
+ <a href="https://www.hackerrank.com/Shuvo31">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>&nbsp
    
+  <a href="https://www.hackerearth.com/@shuvojitdas2000">
+    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
+  </a>&nbsp
 </p>
 
 My Interests :heart_eyes:<br>
