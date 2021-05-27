@@ -94,8 +94,36 @@ My Interests :heart_eyes:<br>
 
 
 <img align = 'left' alt = 'Git' width='40px' src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<br/>
+<br/>
+
+## Operating System :
+
+<img align = 'left' alt = 'Windows' width='40px' src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img align = 'left' alt = 'Linux' width='40px' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img align = 'left' alt = 'Ubuntu' width='40px' src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+<img align = 'left' alt = 'Kali Linux' width='40px' src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<br/>
+<br/>
+
+## IDE :
+
+<img align = 'left' alt = 'VSCode' width='40px' src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 
+<img align = 'left' alt = 'VS2019' width='40px' src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+
+
+<img align = 'left' alt = 'Sublime Text' width='40px' src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+
+
+<img align = 'left' alt = 'Pycharm' width='40px' src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+
+
+<img align = 'left' alt = 'WordPress' width='40px' src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 <br/>
 <br/>
