@@ -130,13 +130,13 @@ My Interests :heart_eyes:<br>
 
 ## Office :
 
-<img align = 'left' alt = 'MICROSOFT EXCEL' width='40px' src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img align = 'left' alt = 'MICROSOFT EXCEL' width='80px' src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img align = 'left' alt = 'MICROSOFT POWERPOINT' width='40px' src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+<img align = 'left' alt = 'MICROSOFT POWERPOINT' width='80px' src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 
-<img align = 'left' alt = 'MICROSOFT WORD' width='40px' src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+<img align = 'left' alt = 'MICROSOFT WORD' width='80px' src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 
-<img align = 'left' alt = 'GOOGLE SHEETS' width='40px' src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img align = 'left' alt = 'GOOGLE SHEETS' width='80px' src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 <br/>
 <br/>
 <br/>
