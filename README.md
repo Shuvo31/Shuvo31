@@ -150,7 +150,7 @@ My Interests :heart_eyes:<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo31&theme=dark" alt="ShuvojitDas" /></p>
   </div>
 
-![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvo31)
+![Top Languanges](<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shuvo31&show_icons=true&theme=dark&locale=en&layout=compact" alt="ShuvojitDas" /></td>)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Shuvo31&&style=flat-square" align="center" />
