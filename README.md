@@ -10,7 +10,7 @@
 
 <p> 👯 I’m looking to <b>collaborate with other content creators</b></p>
 
-<p> 🥅 2021 Goals: <b>Contribute more to Open Source projects</b></p>
+<p> 🥅 2022 Goals: <b>Contribute more to Open Source projects</b></p>
 
 <p> ⚡ Fun fact: I prefer tabs over spaces  </p>
 
