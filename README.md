@@ -3,14 +3,14 @@
 
 <p align='Center'>
  Hi! I am <b>Shuvojit Das</b>.<br/>
- I am a student of <b>Guru Nanak Institute Of Technology, Kolkata</b>.<br/>
+ I completed my B.Tech Degree from <b>Guru Nanak Institute Of Technology, Kolkata</b>.<br/>
  </p>
  
-<p> 🌱 I’m currently studying with <b>Computer Science and Engineering</b></p>
+<p> 🌱 I’m currently working with <b>Trimplin Group</b></p>
 
 <p> 👯 I’m looking to <b>collaborate with other content creators</b></p>
 
-<p> 🥅 2022 Goals: <b>Contribute more to Open Source projects</b></p>
+<p> 🥅 2023 Goals: <b>Contribute more to Open Source projects</b></p>
 
 <p> ⚡ Fun fact: I prefer tabs over spaces  </p>
 
