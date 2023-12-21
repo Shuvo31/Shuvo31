@@ -3,10 +3,9 @@
 
 <p align='Center'>
  Hi! I am <b>Shuvojit Das</b>.<br/>
- I completed my B.Tech Degree from <b>Guru Nanak Institute Of Technology, Kolkata</b>.<br/>
  </p>
  
-<p> 🌱 I’m currently working with <b>Trimplin Group</b></p>
+<p> 🌱 I’m currently working with <b>Ascendion</b></p>
 
 <p> 👯 I’m looking to <b>collaborate with other content creators</b></p>
 
@@ -49,10 +48,10 @@
 
 My Interests :heart_eyes:<br>
 
-- Web Development
-- Software Development
 - Machine Learning
-- Competitive Coding 
+- Data Science
+- Generative AI
+  
 
 ## Languages :
 
@@ -105,7 +104,6 @@ My Interests :heart_eyes:<br>
 
 <img align = 'left' alt = 'Ubuntu' width='40px' src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-<img align = 'left' alt = 'Kali Linux' width='60px' src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <br/>
 <br/>
 
@@ -155,20 +153,3 @@ My Interests :heart_eyes:<br>
 </div>
 
 
-
-
-
-<!--
-**Shuvo31/Shuvo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
