@@ -1,18 +1,17 @@
+## I'm a Machine Learning Engineer
 
-
-
-<p align='Center'>
+<p align='Left'>
  Hi! I am <b>Shuvojit Das</b>.<br/>
- </p>
+</p>
  
-<p> 🌱 I’m currently working as a Machine Learning Engineer at <b>Ascendion</b></p>
+<p> - I have 4 years of experience working with classical Machine Learining, Computer Vison and Generative AI </p>
 
-<p> 👯 I’m looking to <b>collaborate with other content creators</b></p>
+<p> - I’m looking to <b>collaborate with other content creators</b></p>
 
-<p> 🥅 2025 Goals: <b>Contribute more to Open Source projects</b></p>
+<p> - 2025 Goals: <b>Contribute more to Open Source projects</b></p>
 
-<p> ⚡ Fun fact: I prefer tabs over spaces  </p>
-
+<p> - I create free educational content about Python, GenAI, Agentic AI and Machine Learning </p>
+<p> - I have a Masters in AI & ML from [BITS Pilani][college] and Bachelor of Technology in CSE from [GNIT][college]
 <p>📫 How to reach me:innocent:</p>
 
 <p align='center'>
