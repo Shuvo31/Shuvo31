@@ -39,8 +39,7 @@ My Interests :heart_eyes:<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuvo31&theme=tokyonight&show_icons=true)
 
 <div align="left">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo31&theme=dark" alt="ShuvojitDas" /></p>
- </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo31&theme=dark" alt="ShuvojitDas" /></p></div>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shuvo31&show_icons=true&theme=dark&locale=en&layout=compact" alt="ShuvojitDas" /></td>
 
 <div align="center">
