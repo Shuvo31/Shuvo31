@@ -40,7 +40,7 @@ My Interests :heart_eyes:<br>
 
 <div align="left">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo31&theme=dark" alt="ShuvojitDas" /></p>
-  </div>
+ </div>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shuvo31&show_icons=true&theme=dark&locale=en&layout=compact" alt="ShuvojitDas" /></td>
 
 <div align="center">
