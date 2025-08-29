@@ -10,7 +10,7 @@
 
 <p> - I have a Masters in AI & ML from BITS Pilani and Bachelor of Technology in CSE from GNIT.
  
-<p>📫 How to reach me:</p>
+<p> - How to reach me:</p>
 
 <p align='center'>
  
